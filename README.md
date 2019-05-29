@@ -1,23 +1,23 @@
-## angularjs-test
+# angularjs-test
 
-Custom HTML Attribute
+###Custom HTML Attribute
     
     -> angular.min.js
     -> index.html
 
-Dependency Injection
+###Dependency Injection
    
     -> angular.min.js
     -> app.js
     -> index.html
 
-Controller Test
+###Controller Test
     
     -> angular.min.js
     -> app.js
     -> index.html
 
-Msg Controller
+###Msg Controller
      
      -> Images
          - amisha-feed.png
@@ -26,7 +26,7 @@ Msg Controller
      -> app.js
      -> index.html
 
-Name Calculator
+###Name Calculator
    
     -> angular.min.js
     -> app.js
