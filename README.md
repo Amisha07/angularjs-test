@@ -2,24 +2,24 @@
 
 Custom HTML Attribute
     
-		-> angular.min.js
+    -> angular.min.js
     -> index.html
 
 Dependency Injection
    
-	  -> angular.min.js
+    -> angular.min.js
     -> app.js
     -> index.html
 
 Controller Test
     
-		-> angular.min.js
+    -> angular.min.js
     -> app.js
     -> index.html
 
 Msg Controller
      
-		 -> Images
+     -> Images
          - amisha-feed.png
          - amisha-hungry.png
      -> angular.min.js
@@ -28,6 +28,6 @@ Msg Controller
 
 Name Calculator
    
-	  -> angular.min.js
+    -> angular.min.js
     -> app.js
     -> index.html
